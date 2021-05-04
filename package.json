@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "jalali-moment": "^3.3.10",
+    "moment": "^2.29.1"
+  }
+}
